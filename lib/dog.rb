@@ -8,10 +8,10 @@ class Dog
     @color = color
   end
 
-  def name 
-        @name 
-  end 
-  
+  def name
+        @name
+  end
+
 end
 rudy = Dog.new("mutt", true, "Rudy", "brown")
-puts rudy
+puts rudy.name
