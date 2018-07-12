@@ -23,6 +23,10 @@ class Dog
   def tail
     @tail
   end
+
+  def name=(name)
+    @name=name 
+  end
+  
 end
 puts rudy = Dog.new("mutt", true, "Rudy", "brown")
-
