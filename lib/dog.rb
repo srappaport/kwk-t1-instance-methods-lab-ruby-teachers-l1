@@ -12,12 +12,16 @@ class Dog
         @name
   end
 
-  def color 
-    @color 
+  def color
+    @color
   end
 
   def breed
-    @breed 
+    @breed
+  end
+
+  def tail 
+    @tail 
   end 
 end
 rudy = Dog.new("mutt", true, "Rudy", "brown")
