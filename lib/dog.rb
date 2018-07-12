@@ -43,5 +43,5 @@ end
 puts rudy = Dog.new("mutt", true, "Rudy", "brown")
 puts rudy.name
 rudy.name=("roodee")
-puts rudy 
-puts rudy.name 
+puts rudy
+puts rudy.name
