@@ -7,6 +7,11 @@ class Dog
     @name = name
     @color = color
   end
+
+  def name 
+        @name 
+  end 
+  
 end
 rudy = Dog.new("mutt", true, "Rudy", "brown")
 puts rudy
