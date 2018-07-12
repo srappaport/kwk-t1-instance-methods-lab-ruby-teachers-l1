@@ -25,6 +25,7 @@ class Dog
   end
 end
 rudy = Dog.new("mutt", true, "Rudy", "brown")
+rudy = Dog.new("mutt", true, "Rudy", "brown")
 puts rudy.name
 puts rudy.tail
 puts rudy.color
