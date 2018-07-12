@@ -41,6 +41,6 @@ class Dog
   end
 end
 puts rudy = Dog.new("mutt", true, "Rudy", "brown")
-puts rudy.name 
+puts rudy.name
 rudy.name=("roodee")
 puts rudy.name 
