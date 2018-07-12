@@ -27,5 +27,5 @@ end
 rudy = Dog.new("mutt", true, "Rudy", "brown")
 puts rudy.name
 puts rudy.tail
-puts rudy.color 
-puts rudy.breed 
+puts rudy.color
+puts rudy.breed
